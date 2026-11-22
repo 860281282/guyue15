@@ -5,12 +5,15 @@ __pycache__/
 *.zip
 *.exe
 *.spec
+!lite/lite.spec
 *.dat
 .env*
 _build/libs/
 _build/work*/
 _build/version_info.txt
 installer/work*/
+lite/build/
+lite/dist/
 release-*/
 **/日志/
 **/缓存/
