@@ -1,10 +1,12 @@
 # 咕月15
 
+**[下载咕月15 2.9.7 · Windows x64 免安装版（ZIP，约 13 MB）](https://github.com/860281282/guyue15/releases/download/v2.9.7/guyue15-2.9.7-windows-x64-portable.zip)**
+
 咕月15是 Windows 上的 Notion 与 Obsidian 同步工具，可按类目导入 Notion 页面，也可预览并上传选定的本地笔记。
 
 ## 获取并运行
 
-在 GitHub 的 Releases 下载 Windows 免安装 ZIP。全部解压，进入「咕月15」文件夹并双击 `咕月15.exe`。「同步组件」需和程序留在同一文件夹。
+下载上方的 ZIP 并全部解压，进入「咕月15」文件夹并双击 `咕月15.exe`。「同步组件」需和程序留在同一文件夹。
 
 首次使用时，选择已有的 Obsidian 知识库，在程序内点击「连接 Notion」，在浏览器完成授权。建议先选择少量测试笔记，确认目录、链接和附件的转换结果。
 
